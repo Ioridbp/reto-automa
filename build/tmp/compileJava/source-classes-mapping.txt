@@ -1,0 +1,18 @@
+co/com/choucair/certificacion/retoautoma/task/AbrirPagina_2.java
+ co.com.choucair.certificacion.retoautoma.task.AbrirPagina_2
+co/com/choucair/certificacion/retoautoma/task/Login.java
+ co.com.choucair.certificacion.retoautoma.task.Login
+co/com/choucair/certificacion/retoautoma/userinterfaces/Paginablaze.java
+ co.com.choucair.certificacion.retoautoma.userinterfaces.Paginablaze
+co/com/choucair/certificacion/retoautoma/question/Verificar.java
+ co.com.choucair.certificacion.retoautoma.question.Verificar
+co/com/choucair/certificacion/retoautoma/userinterfaces/PagColorbib.java
+ co.com.choucair.certificacion.retoautoma.userinterfaces.PagColorbib
+co/com/choucair/certificacion/retoautoma/userinterfaces/DespliegueMenu.java
+ co.com.choucair.certificacion.retoautoma.userinterfaces.DespliegueMenu
+co/com/choucair/certificacion/retoautoma/task/AbrirPagina.java
+ co.com.choucair.certificacion.retoautoma.task.AbrirPagina
+co/com/choucair/certificacion/retoautoma/task/IngresaDatos.java
+ co.com.choucair.certificacion.retoautoma.task.IngresaDatos
+co/com/choucair/certificacion/retoautoma/interaction/Alert.java
+ co.com.choucair.certificacion.retoautoma.interaction.Alert

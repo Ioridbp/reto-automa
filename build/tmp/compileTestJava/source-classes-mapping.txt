@@ -1,0 +1,8 @@
+co/com/choucair/certificacion/retoautoma/runners/RunnerTags.java
+ co.com.choucair.certificacion.retoautoma.runners.RunnerTags
+co/com/choucair/certificacion/retoautoma/stepdefinitions/MyStepdefs.java
+ co.com.choucair.certificacion.retoautoma.stepdefinitions.MyStepdefs
+co/com/choucair/certificacion/retoautoma/runners/Runner2.java
+ co.com.choucair.certificacion.retoautoma.runners.Runner2
+co/com/choucair/certificacion/retoautoma/stepdefinitions/MyStepDefinition.java
+ co.com.choucair.certificacion.retoautoma.stepdefinitions.MyStepDefinition

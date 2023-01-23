@@ -1,0 +1,12 @@
+
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+^
+java:S1128"CRemove this unused import 'net.serenitybdd.screenplay.Performable'.(ğ”„Îüÿÿÿÿ
+`
+java:S1128	"JRemove this unused import 'net.serenitybdd.screenplay.actions.EnterValue'.(ç•Ø²
+Z
+java:S1128
+"DRemove this unused import 'net.serenitybdd.screenplay.actions.Open'.(Ä”Õ
+x
+java:S1128"cRemove this unused import 'co.com.choucair.certificacion.retoautoma.interaction.Alert.alergettext'.(³°ìS

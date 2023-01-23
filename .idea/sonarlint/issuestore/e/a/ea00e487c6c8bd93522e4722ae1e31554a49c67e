@@ -1,0 +1,12 @@
+
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8¼†‘Ü0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ûø‡İøÿÿÿÿ
+m
+java:S1128"WRemove this unused import 'co.com.choucair.certificacion.retoautoma.task.IngresaDatos'.(ç°ª×
+X
+java:S1128"=Remove this unused import 'net.serenitybdd.screenplay.Tasks'.(°Şªìşÿÿÿÿ
+_
+java:S1128	"IRemove this unused import 'org.openqa.selenium.support.ui.WebDriverWait'.(¥÷ó
+z
+java:S1128"_Remove this unused import 'net.thucydides.core.webdriver.ThucydidesWebDriverSupport.getDriver'.(—ÛŠÌÿÿÿÿÿ
